@@ -5,6 +5,7 @@
 
 # Reading list for the week of June 16-20, 2025
 
+---
 **Neuro-Inclusive Form Design Comparison**
 
 Discover how thoughtful design choices can make digital forms more accessible for users with ADHD, autism, dyslexia, and other neurodivergent conditions. Compare conventional and neuro-inclusive approaches side by side.

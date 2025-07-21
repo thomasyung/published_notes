@@ -4,10 +4,19 @@
 
 # Reading list for the week of July 21-25, 2025
 
+---
+**AI Needs UI**
+
+<https://odannyboy.medium.com/ai-needs-ui-31480100e7d8>
+
+#AI #UI #UX
+
+---
 **How not to lose your job to AI - 80,000 Hours**
-<https://80000hours.org/agi/guide/skills-ai-makes-valuable/>
 
 The skills AI will make more valuable (and how to learn them)
+
+<https://80000hours.org/agi/guide/skills-ai-makes-valuable/>
 
 #AI #Career 
 

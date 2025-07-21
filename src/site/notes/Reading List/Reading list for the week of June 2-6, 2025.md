@@ -5,6 +5,7 @@
 
 # Reading list for the week of June 2-6, 2025
 
+---
 **Anyone can use AI chatbots to 'vibe code.' Could that put programmers out of a job?**
 
 <https://www.npr.org/2025/05/30/nx-s1-5413387/vibe-coding-ai-software-development>

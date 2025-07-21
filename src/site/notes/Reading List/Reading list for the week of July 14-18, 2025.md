@@ -5,6 +5,7 @@
 
 # Reading list for the week of July 14 - 18, 2025
 
+---
 **Making Scannable Web Pages for Assistive Technology**
 
 Guidance for implementing workflows and best practices that prioritize the creation of an accessible user experience for product teams creating scannable web pages for assistive technology.
@@ -36,4 +37,3 @@ Designing a new AI feature? Where do you even begin? From first steps to design 
 
 #Ai #Ux #Ui #Design
 
-#Design #Ux #A11y #Accessibility #Ai #Ui
