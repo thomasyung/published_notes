@@ -5,6 +5,15 @@
 # Reading list for the week of July 21-25, 2025
 
 ---
+## Designing Software for AI Agents
+
+From making apps, browsing the Web, to creating files, today's AI agents today can take on an increasing number of computing tasks on their own. But the software underlying these capabilities, wasn't made for agents. It was designed and built for people to use. As such there's an opportunity, and perhaps an increasing need, to rethink these systems for agent use.
+
+<https://www.lukew.com/ff/entry.asp?2111>
+
+#AI #Databases 
+
+---
 ## 4 Principles to Reduce Cognitive Load in Forms
 
 Four principles of form design — structure, transparency, clarity, and support — minimize users’ cognitive load and improve usability.
