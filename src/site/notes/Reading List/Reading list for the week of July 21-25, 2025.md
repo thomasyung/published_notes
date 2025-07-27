@@ -5,6 +5,15 @@
 # Reading list for the week of July 21-25, 2025
 
 ---
+## AI Has Flipped Software Development
+
+For years, it's been faster to create mockups and prototypes of software than to ship it to production. As a result, software design teams could stay "ahead" of engineering. Now AI coding agents make development 10x faster, flipping the traditional software development process on its head.
+
+<http://www.lukew.com/ff/entry.asp?2112>
+
+#AI #UX #Productdesign #Strategy 
+
+---
 ## Designing Software for AI Agents
 
 From making apps, browsing the Web, to creating files, today's AI agents today can take on an increasing number of computing tasks on their own. But the software underlying these capabilities, wasn't made for agents. It was designed and built for people to use. As such there's an opportunity, and perhaps an increasing need, to rethink these systems for agent use.
